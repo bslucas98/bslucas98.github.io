@@ -7,7 +7,7 @@
 ### Site Settings ###
 title               : PossibleCorg 
 description         : >-
-                      I may or may not be a corgi.
+                      I mayyyyyy or may not be a corgi.
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          :              # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
